@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    overflow: hidden;
+    text-align: center;
+    align-items: center;
+}
+
+h2{
+    color: rgb(122, 13, 13);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
